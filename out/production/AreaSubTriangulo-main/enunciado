@@ -1,0 +1,7 @@
+Calcular el área entre un triangulo rectangulo conformado por 3 puntos en el plano cartesiano y
+un triángulo interior descrito entre los puntos que conforman la hipotenusa del triangulo rectangulo
+y el baricentro del mismo. Considerar que la hipotenusa siempre se encontrará paralela al eje X.
+L
+os puntos tienen componentes X y Y y deberan ser ingresados por teclado.
+
+Nota: La clase Main no debe ser modificada.
